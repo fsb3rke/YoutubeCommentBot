@@ -21,7 +21,7 @@ class Browser:
         time.sleep(2)
 
         usernameInput = self.browser.find_element_by_xpath("/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div/div[1]/div/div[1]/input")
-        usernameInput.send_keys(kb.username)
+        usernameInput.send_keys(kb.kisi22.username)
 
         time.sleep(2)
 
@@ -31,7 +31,7 @@ class Browser:
         time.sleep(2)
 
         passwordInput = self.browser.find_element_by_xpath("/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div[1]/div/div/div/div/div[1]/div/div[1]/input")
-        passwordInput.send_keys(kb.password)
+        passwordInput.send_keys(kb.kisi22.password)
 
         time.sleep(2)
 
@@ -49,11 +49,11 @@ class Browser:
 
         time.sleep(2)
 
-        for i in range(11):
+        for i in range(15):
             numb = i * 1080
             self.browser.execute_script(f"window.scrollTo(0, {numb});")
 
-        time.sleep(2)
+        time.sleep(5)
 
         commentInput = self.browser.find_element_by_css_selector("#placeholder-area")
         commentInput.click()
@@ -71,4 +71,3 @@ class Browser:
         time.sleep(2)
 
         self.browser.get("https://www.youtube.com/logout")
-

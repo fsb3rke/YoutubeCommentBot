@@ -1,0 +1,1100 @@
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("fncadegxrgvy", "mfykekupeq", "Ekine", "Erdem")
+
+kisi1 = dbik.Person("uvazkixlvkwv", "wkmrbpyemj", "Ekine", "Alkac")
+
+kisi2 = dbik.Person("qykpdfgagriw", "gnkkndbpje", "Kemal", "Ersen")
+
+kisi3 = dbik.Person("dbdoxdpkmypt", "aokfujpcpi", "Ekrem", "Ersen")
+
+kisi4 = dbik.Person("odzywkvcncvq", "iowynucuqy", "Ekrem", "Alkac")
+
+kisi5 = dbik.Person("cyxxsdmcmeeg", "ksxgpqzimh", "Kemal", "Ersen")
+
+kisi6 = dbik.Person("hdwkuytillbt", "akombkazgs", "Ekine", "Ersen")
+
+kisi7 = dbik.Person("usyhylwrlnne", "tuwvneqlbf", "Murat", "Erdem")
+
+kisi8 = dbik.Person("wcskfisykvpl", "tsyclbuzah", "Ekine", "Guclu")
+
+kisi9 = dbik.Person("tmdgcyynjfzx", "cbkckrejds", "Kemal", "Erdem")
+
+kisi10 = dbik.Person("pkhbpfhspwzl", "cuowbzyxtx", "Sedat", "Tekin")
+
+kisi11 = dbik.Person("quxiymjxeziq", "pkezgtyfjg", "Ekine", "Guclu")
+
+kisi12 = dbik.Person("turouhooiswz", "celjkuraex", "Murat", "Tekin")
+
+kisi13 = dbik.Person("ajdginnvchgd", "cqixrxkcin", "Murat", "Erdem")
+
+kisi14 = dbik.Person("lcbjordaeyjn", "mseqiqpczg", "Burak", "Tekin")
+
+kisi15 = dbik.Person("wqmgedkpbyrb", "frrxhqpblz", "Kemal", "Sahin")
+
+kisi16 = dbik.Person("lidjmodahhfb", "rogihhfodb", "Sedat", "Guclu")
+
+kisi17 = dbik.Person("jbxweeojssyh", "jeaojliqxb", "Ekrem", "Guclu")
+
+kisi18 = dbik.Person("trvrakcdoeot", "sbuljvbwlw", "Murat", "Sahin")
+
+kisi19 = dbik.Person("vldaughxvyxs", "fuemunaasa", "Ekrem", "Tekin")
+
+kisi20 = dbik.Person("zbifkcrnnsyj", "jyowajmrvf", "Murat", "Alkac")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("pccfmgfmfipo", "xhdycfanqr", "Ekine", "Erdem")
+
+kisi1 = dbik.Person("dwvocznfjwbx", "bpftqgrwpm", "Sedat", "Ersen")
+
+kisi2 = dbik.Person("rgohuvshdsqd", "zgisxhtvna", "Kemal", "Erdem")
+
+kisi3 = dbik.Person("jfekpowcqdag", "ogxdzabppn", "Ekine", "Tekin")
+
+kisi4 = dbik.Person("drulgycnvhgm", "hkuinfxnwg", "Ekrem", "Guclu")
+
+kisi5 = dbik.Person("qmntbotuhnsy", "oubjdczick", "Ekine", "Ersen")
+
+kisi6 = dbik.Person("srechkzljgvx", "tucrgqvtcy", "Ekine", "Erdem")
+
+kisi7 = dbik.Person("bhczmydypxax", "phzhhxlzdb", "Kemal", "Tekin")
+
+kisi8 = dbik.Person("flkxwvswzvaa", "lvgmvtyrfa", "Ekrem", "Tekin")
+
+kisi9 = dbik.Person("exfmvpdmqzgv", "bydguiuaft", "Murat", "Tekin")
+
+kisi10 = dbik.Person("gpskqwbofcti", "zfgnhxnhmq", "Ekrem", "Ersen")
+
+kisi11 = dbik.Person("hvgxisbioink", "ozzevqhsjs", "Ekrem", "Tekin")
+
+kisi12 = dbik.Person("bqffoyxjyqqn", "ssrqnluadh", "Kemal", "Sahin")
+
+kisi13 = dbik.Person("bmtjdirpaowj", "isnwbfbpch", "Kemal", "Ersen")
+
+kisi14 = dbik.Person("gqentoqssqfl", "rwnpnxyubl", "Ekrem", "Tekin")
+
+kisi15 = dbik.Person("gololdouwidz", "gnbohjyugi", "Murat", "Alkac")
+
+kisi16 = dbik.Person("nivnjumkwzrf", "ypaxvshnjn", "Ekrem", "Alkac")
+
+kisi17 = dbik.Person("ohukbokcvgml", "pjaizjpkey", "Burak", "Erdem")
+
+kisi18 = dbik.Person("wizvnyqvjfbp", "ttdhwqyivt", "Burak", "Tekin")
+
+kisi19 = dbik.Person("hgpjosnkvocu", "cxstxdbrtv", "Burak", "Erdem")
+
+kisi20 = dbik.Person("flsrlimewwqu", "fcatmoleyw", "Ekine", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("pdaxsjcsybpv", "pwxfpldygv", "Ekine", "Tekin")
+
+kisi1 = dbik.Person("wtpcirxbfmik", "hecbzhncdo", "Ekrem", "Erdem")
+
+kisi2 = dbik.Person("kyvsekzvuiyv", "cazusodgus", "Ekine", "Sahin")
+
+kisi3 = dbik.Person("jozvhhaxesgd", "tguwocueav", "Ekrem", "Sahin")
+
+kisi4 = dbik.Person("gmtmgrolbxvp", "rgeikpsntg", "Murat", "Ersen")
+
+kisi5 = dbik.Person("dwbnpgzhntvl", "doyguwnwmr", "Ekine", "Guclu")
+
+kisi6 = dbik.Person("twjqilfvoiuz", "wqwwlpfafz", "Ekrem", "Ersen")
+
+kisi7 = dbik.Person("oyuxnahdfofe", "gyuuatwasm", "Burak", "Ersen")
+
+kisi8 = dbik.Person("xagenddhtgep", "bluitjribe", "Kemal", "Tekin")
+
+kisi9 = dbik.Person("afyeloolljkn", "vidqxdhofj", "Sedat", "Sahin")
+
+kisi10 = dbik.Person("jzlyrvmicfhh", "dkolrcsldj", "Kemal", "Guclu")
+
+kisi11 = dbik.Person("kzjwcegftmug", "axmswldmco", "Ekine", "Guclu")
+
+kisi12 = dbik.Person("jfdaqthrdtrz", "ljyltijhdb", "Ekine", "Erdem")
+
+kisi13 = dbik.Person("ysnmrwvihytp", "rmvtbufhmy", "Ekrem", "Alkac")
+
+kisi14 = dbik.Person("mgojsqniuxzl", "tmobmqthay", "Burak", "Sahin")
+
+kisi15 = dbik.Person("zmzfokeiehqr", "gbnfqbekmz", "Ekine", "Sahin")
+
+kisi16 = dbik.Person("njynbrvvwycf", "nnycsujqhj", "Sedat", "Alkac")
+
+kisi17 = dbik.Person("ptuzkirgyqpv", "zudhpizspx", "Murat", "Alkac")
+
+kisi18 = dbik.Person("axfcmedzypqh", "pvdthtqdbi", "Murat", "Tekin")
+
+kisi19 = dbik.Person("gdkbrnqirdwu", "nrjhjdnzgm", "Kemal", "Alkac")
+
+kisi20 = dbik.Person("jrfqirtgupla", "dbvgpchwac", "Sedat", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("lsqsjdtaiezg", "rhuteawzvr", "Kemal", "Ersen")
+
+kisi1 = dbik.Person("fgccvnnlfync", "blcdxvzlcc", "Burak", "Tekin")
+
+kisi2 = dbik.Person("pzrxtolzjcme", "droxqqmbeb", "Burak", "Ersen")
+
+kisi3 = dbik.Person("qjgpmecaqsdx", "tetfwrqkwm", "Ekrem", "Sahin")
+
+kisi4 = dbik.Person("wmeexgejudxf", "ohmrxvzcio", "Ekine", "Tekin")
+
+kisi5 = dbik.Person("xfvvyaxorghd", "ymrhcovbyx", "Ekrem", "Ersen")
+
+kisi6 = dbik.Person("fhibucygaazt", "jeteilbnjb", "Murat", "Guclu")
+
+kisi7 = dbik.Person("tlozifeyjpek", "zvnkyzwlkz", "Ekine", "Sahin")
+
+kisi8 = dbik.Person("axpgttqvlohd", "xmajkmbjez", "Ekine", "Tekin")
+
+kisi9 = dbik.Person("shoxdixgqoko", "lcgtsffkql", "Burak", "Guclu")
+
+kisi10 = dbik.Person("jtnkrnjlhzzm", "fmyzslfejd", "Ekine", "Guclu")
+
+kisi11 = dbik.Person("quzfafslragc", "jaeyrchjdj", "Burak", "Alkac")
+
+kisi12 = dbik.Person("xuxswofigdho", "vumfolutns", "Burak", "Alkac")
+
+kisi13 = dbik.Person("myomnctyhtoa", "jcwwsgfcsb", "Murat", "Sahin")
+
+kisi14 = dbik.Person("ntpbokxxokvo", "pgyooziiqr", "Murat", "Alkac")
+
+kisi15 = dbik.Person("qyuimjupqblx", "clcsziwhkx", "Ekrem", "Sahin")
+
+kisi16 = dbik.Person("ujpwppjlyfhb", "ozahkraaio", "Ekine", "Ersen")
+
+kisi17 = dbik.Person("sqglnojledvy", "lybqadcysg", "Ekrem", "Erdem")
+
+kisi18 = dbik.Person("gglmgeudvwlg", "jierrvuctz", "Ekine", "Tekin")
+
+kisi19 = dbik.Person("ojmcqtsrmspc", "pvoyrrlwku", "Burak", "Guclu")
+
+kisi20 = dbik.Person("hdquvjcvzngd", "kapbiuvxxr", "Ekrem", "Tekin")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("vwlrgydxwdsx", "tamedemqns", "Kemal", "Erdem")
+
+kisi1 = dbik.Person("siaiaugzyroi", "spikgdmiqa", "Kemal", "Sahin")
+
+kisi2 = dbik.Person("zttipycmrsnv", "atjplmsudz", "Burak", "Tekin")
+
+kisi3 = dbik.Person("dgcvpnuefwxf", "hjcuhnflbb", "Burak", "Tekin")
+
+kisi4 = dbik.Person("iddxtztmeyts", "baqdkfelru", "Sedat", "Ersen")
+
+kisi5 = dbik.Person("flqfghtarlea", "wkujdaapjg", "Sedat", "Guclu")
+
+kisi6 = dbik.Person("zucfcayeblpj", "wpbxfxsuju", "Burak", "Ersen")
+
+kisi7 = dbik.Person("kxxexwrwhwcj", "hfcsssvcvd", "Murat", "Erdem")
+
+kisi8 = dbik.Person("ymznhqjrkjlr", "fjtbmbwiha", "Ekrem", "Ersen")
+
+kisi9 = dbik.Person("mjxpfwusiyfn", "xbrmcmsocg", "Kemal", "Guclu")
+
+kisi10 = dbik.Person("puofnofdkidw", "qhraefikvs", "Sedat", "Tekin")
+
+kisi11 = dbik.Person("stjltwojacyz", "crcmrzsilh", "Kemal", "Alkac")
+
+kisi12 = dbik.Person("gxvefqjrttzt", "dcyuqclhal", "Burak", "Guclu")
+
+kisi13 = dbik.Person("qhxtccejijzk", "vwqoqkxaua", "Ekine", "Sahin")
+
+kisi14 = dbik.Person("cwuuzcyttmis", "xjsvwvxyyx", "Kemal", "Sahin")
+
+kisi15 = dbik.Person("ydvugaarxdbx", "aferigupzk", "Ekrem", "Guclu")
+
+kisi16 = dbik.Person("ndaveyizeivq", "bcpohkjwsv", "Murat", "Tekin")
+
+kisi17 = dbik.Person("rtvrixsyqbru", "itkzctvucp", "Kemal", "Alkac")
+
+kisi18 = dbik.Person("vpbshiqbvfvx", "wrlvoaqcut", "Burak", "Erdem")
+
+kisi19 = dbik.Person("movupvidamzu", "pwlrzzaers", "Sedat", "Sahin")
+
+kisi20 = dbik.Person("fdpxhsnzrvut", "ulfopxuzfw", "Murat", "Alkac")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("zdixpuzsxpxl", "czniwcfywf", "Burak", "Sahin")
+
+kisi1 = dbik.Person("lxpqnufejgbz", "fruilzbllm", "Murat", "Guclu")
+
+kisi2 = dbik.Person("oqrizjbkrjmr", "asbaiywnzf", "Burak", "Alkac")
+
+kisi3 = dbik.Person("ymruxixtrazx", "gtuxuuqddc", "Burak", "Sahin")
+
+kisi4 = dbik.Person("hrrlgnavpxci", "cydeorrmjr", "Kemal", "Sahin")
+
+kisi5 = dbik.Person("kntnkvxsaddh", "xcgfstlomk", "Sedat", "Guclu")
+
+kisi6 = dbik.Person("ueyswikwxvzo", "lynubaljaq", "Ekine", "Ersen")
+
+kisi7 = dbik.Person("rxghqqoojmxj", "fqkkxeenva", "Kemal", "Tekin")
+
+kisi8 = dbik.Person("lwwdzygpnnpq", "nwjdhvqmli", "Ekine", "Alkac")
+
+kisi9 = dbik.Person("gnokmlasjxyo", "wxezdtgzwt", "Murat", "Tekin")
+
+kisi10 = dbik.Person("nhwdcoajjtzo", "soxklatiij", "Kemal", "Guclu")
+
+kisi11 = dbik.Person("dwwqoqhpkwcn", "rvozlephqo", "Sedat", "Erdem")
+
+kisi12 = dbik.Person("ueohhnktzikl", "sjcozffbmq", "Sedat", "Tekin")
+
+kisi13 = dbik.Person("itspxybvhtra", "xejozwxlpq", "Kemal", "Erdem")
+
+kisi14 = dbik.Person("luzhdaiqwyxf", "naheblopdv", "Ekrem", "Guclu")
+
+kisi15 = dbik.Person("dcauanresowj", "vdvznhgqnj", "Ekrem", "Erdem")
+
+kisi16 = dbik.Person("ztypqgqujaks", "pnasckhtwx", "Ekrem", "Guclu")
+
+kisi17 = dbik.Person("lotyavxougaz", "hbzqxlxxgq", "Murat", "Alkac")
+
+kisi18 = dbik.Person("fasrxbympdya", "ueqkfqijih", "Ekine", "Alkac")
+
+kisi19 = dbik.Person("wlvtfbeydgnz", "ryxdgseddm", "Sedat", "Alkac")
+
+kisi20 = dbik.Person("meckokdyzyqr", "fekzsbojow", "Ekine", "Ersen")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("gxtlnggiuzfn", "tleruytubd", "Ekrem", "Guclu")
+
+kisi1 = dbik.Person("lzpahvaguvsq", "vorrynjkaq", "Murat", "Erdem")
+
+kisi2 = dbik.Person("lrikaxmiodcm", "nezcxsdmpq", "Sedat", "Tekin")
+
+kisi3 = dbik.Person("szezspwfwopf", "hcmhqptwtb", "Burak", "Alkac")
+
+kisi4 = dbik.Person("ebfwfplkrwag", "tazozsveeh", "Murat", "Sahin")
+
+kisi5 = dbik.Person("yfviswowjxdc", "bjbtfyrcos", "Ekine", "Erdem")
+
+kisi6 = dbik.Person("zawrbmprjuxd", "upgnehmexz", "Kemal", "Ersen")
+
+kisi7 = dbik.Person("fibedmcaxjah", "nbxpajwsoz", "Burak", "Alkac")
+
+kisi8 = dbik.Person("ssrsoayarqkj", "lijzxjaqsz", "Kemal", "Alkac")
+
+kisi9 = dbik.Person("aofueixjnwdm", "bbilmdbvjw", "Murat", "Sahin")
+
+kisi10 = dbik.Person("mtawfseznibs", "wnekssxnjd", "Murat", "Ersen")
+
+kisi11 = dbik.Person("leowotcimbrn", "vtnwkdkjuh", "Murat", "Erdem")
+
+kisi12 = dbik.Person("mdgqyyjdnvcm", "ropzzylnqy", "Ekrem", "Erdem")
+
+kisi13 = dbik.Person("ozsbbqjaozwh", "uaobutbnpe", "Murat", "Ersen")
+
+kisi14 = dbik.Person("lvejczeproms", "djqinpalcg", "Ekrem", "Tekin")
+
+kisi15 = dbik.Person("cvdljagnvrxy", "kjiwoxvabu", "Murat", "Sahin")
+
+kisi16 = dbik.Person("xcazznjwfirr", "myvsmidygf", "Murat", "Ersen")
+
+kisi17 = dbik.Person("fmrystdxtvlf", "gnruwxqdys", "Burak", "Guclu")
+
+kisi18 = dbik.Person("skrpebitgvib", "mpczbvewqa", "Burak", "Ersen")
+
+kisi19 = dbik.Person("iioyehsdkhao", "utksaowura", "Ekrem", "Erdem")
+
+kisi20 = dbik.Person("jowokpeerzra", "mpcmfvmfec", "Sedat", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("qdyuwwdqmrsm", "glowfmtmyw", "Burak", "Erdem")
+
+kisi1 = dbik.Person("gbcloudjjstg", "iyynpdhhmt", "Ekrem", "Tekin")
+
+kisi2 = dbik.Person("xnjeimfifrpj", "pzytebdosn", "Ekrem", "Tekin")
+
+kisi3 = dbik.Person("gsbyeueymgny", "umzaageevg", "Murat", "Tekin")
+
+kisi4 = dbik.Person("evhritxdjgsp", "vdrmritatx", "Murat", "Alkac")
+
+kisi5 = dbik.Person("mctinsebgisk", "reaevnfzeq", "Burak", "Tekin")
+
+kisi6 = dbik.Person("pwucgmicjaqx", "jsdmjlesck", "Ekine", "Erdem")
+
+kisi7 = dbik.Person("minwrhdzkhfj", "faskqeggva", "Burak", "Sahin")
+
+kisi8 = dbik.Person("wztwxftatecy", "hwgiagmlhp", "Murat", "Ersen")
+
+kisi9 = dbik.Person("hzoeepibpfun", "eiofqlgtxe", "Burak", "Erdem")
+
+kisi10 = dbik.Person("zxvzdwenbaxv", "zdgjglvsol", "Ekrem", "Tekin")
+
+kisi11 = dbik.Person("gcqmkzrefynl", "uikimuaelq", "Ekine", "Ersen")
+
+kisi12 = dbik.Person("pgaiygshrwms", "afqstnfdin", "Sedat", "Tekin")
+
+kisi13 = dbik.Person("keriblmusnan", "crfxeeplui", "Murat", "Guclu")
+
+kisi14 = dbik.Person("zvbctukoimaf", "obunixnqay", "Burak", "Tekin")
+
+kisi15 = dbik.Person("snfbiujcikyh", "ceizuosibg", "Ekrem", "Alkac")
+
+kisi16 = dbik.Person("pzyjscwthkjb", "tigltbhzfu", "Kemal", "Guclu")
+
+kisi17 = dbik.Person("uimtvjyeevkq", "hrvbbpzwha", "Kemal", "Sahin")
+
+kisi18 = dbik.Person("bkakhdezgerf", "hjtevzjhyy", "Ekrem", "Ersen")
+
+kisi19 = dbik.Person("ppvvbahhagqq", "blweevtilm", "Burak", "Tekin")
+
+kisi20 = dbik.Person("bfanrujllkaq", "plkqghgwsw", "Sedat", "Guclu")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("rytrqoeiaorq", "evfowflksf", "Burak", "Alkac")
+
+kisi1 = dbik.Person("dbxgldmrkozb", "rlwmanqlcg", "Ekrem", "Alkac")
+
+kisi2 = dbik.Person("eqijjymgnnqi", "gyzsqazrgc", "Burak", "Tekin")
+
+kisi3 = dbik.Person("inzrhowvungz", "luwofghbxc", "Ekrem", "Guclu")
+
+kisi4 = dbik.Person("bcpizvcvkrhl", "vrgxmnqkgp", "Ekine", "Ersen")
+
+kisi5 = dbik.Person("bepwuwenqkbc", "ffjeinhhyz", "Sedat", "Tekin")
+
+kisi6 = dbik.Person("ldkapocbcyti", "dlkkrpjjlm", "Ekrem", "Erdem")
+
+kisi7 = dbik.Person("eaxjztfguhic", "wmcmubrwkg", "Murat", "Tekin")
+
+kisi8 = dbik.Person("truhxfojursz", "lscrgmitqh", "Ekine", "Guclu")
+
+kisi9 = dbik.Person("lxztzaaommct", "olfprnuizu", "Burak", "Alkac")
+
+kisi10 = dbik.Person("plwrixwvejse", "kdecypsjga", "Kemal", "Ersen")
+
+kisi11 = dbik.Person("promovfcbzzc", "pbzwfnhblg", "Sedat", "Ersen")
+
+kisi12 = dbik.Person("jqrkmtdgjkci", "aozaepfhfc", "Kemal", "Sahin")
+
+kisi13 = dbik.Person("gyfqoyuisgxy", "zcubkeoreb", "Kemal", "Ersen")
+
+kisi14 = dbik.Person("dexkkbjrbtcc", "usxuxqxvoj", "Murat", "Tekin")
+
+kisi15 = dbik.Person("hezqfbjpgjgw", "cadmuxaqit", "Sedat", "Guclu")
+
+kisi16 = dbik.Person("pbwyyddpdoqj", "leryudyvwv", "Ekine", "Guclu")
+
+kisi17 = dbik.Person("ksjxacvkqqic", "xbmlnkfytd", "Murat", "Ersen")
+
+kisi18 = dbik.Person("uiiskkzgrzzk", "tzwruxivrs", "Kemal", "Sahin")
+
+kisi19 = dbik.Person("bnmvywuwkoew", "sxsqbegnso", "Sedat", "Tekin")
+
+kisi20 = dbik.Person("qgowlanqznpn", "rxruoxdxiy", "Murat", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("sdcnhvpotzdc", "gvlcxaqxcp", "Ekrem", "Erdem")
+
+kisi1 = dbik.Person("txbrbocsgabu", "rgcvjfvnfz", "Murat", "Ersen")
+
+kisi2 = dbik.Person("zbsqdvbbiqro", "meyklvrkkr", "Kemal", "Sahin")
+
+kisi3 = dbik.Person("blnbmwvfmxcf", "fazcjsofrj", "Burak", "Tekin")
+
+kisi4 = dbik.Person("eiabzefjgvjs", "serlzzotdd", "Ekrem", "Guclu")
+
+kisi5 = dbik.Person("tqjjdwktktqp", "dpoywelcut", "Ekrem", "Alkac")
+
+kisi6 = dbik.Person("eucicbkcjrmt", "zmwuatuuql", "Sedat", "Erdem")
+
+kisi7 = dbik.Person("puxbxmhuiaxc", "uqdeknbmnz", "Burak", "Erdem")
+
+kisi8 = dbik.Person("buvrsilptlke", "zcqmbhbmaa", "Burak", "Erdem")
+
+kisi9 = dbik.Person("pntuqpflzdyj", "ltibhtpgzc", "Burak", "Erdem")
+
+kisi10 = dbik.Person("wkftahkxtgul", "lpbkkimvsr", "Sedat", "Tekin")
+
+kisi11 = dbik.Person("gdmelofaawsd", "qxxdprmbag", "Ekine", "Ersen")
+
+kisi12 = dbik.Person("xcyhrkhfnwhx", "sjneipgsat", "Ekrem", "Erdem")
+
+kisi13 = dbik.Person("oecwdxpqbpas", "fdomvidcxt", "Murat", "Ersen")
+
+kisi14 = dbik.Person("ffjcmuwriykb", "mlsfvouqvr", "Ekine", "Guclu")
+
+kisi15 = dbik.Person("bsyygfwldrzd", "bbliqehxhw", "Murat", "Alkac")
+
+kisi16 = dbik.Person("qaidhzscuszr", "ydgtliqgqt", "Burak", "Guclu")
+
+kisi17 = dbik.Person("dqatptoludwh", "azccvzbaht", "Murat", "Ersen")
+
+kisi18 = dbik.Person("cmbgpofljsul", "mvdakxdhiw", "Sedat", "Guclu")
+
+kisi19 = dbik.Person("wurlhdwuvsti", "dnfjxmjfnp", "Murat", "Guclu")
+
+kisi20 = dbik.Person("vxbawcisyamr", "bfticaklzi", "Kemal", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("cmahwmrbcgtv", "mglftqbbdf", "Sedat", "Guclu")
+
+kisi1 = dbik.Person("kkymdjzweavu", "ojdicxifjp", "Murat", "Sahin")
+
+kisi2 = dbik.Person("dngwmjnwcier", "zugxiwtobl", "Murat", "Guclu")
+
+kisi3 = dbik.Person("agxdrhauxxhb", "xapgmdzlxc", "Burak", "Erdem")
+
+kisi4 = dbik.Person("vstrzmpcksec", "jajymfoylp", "Ekrem", "Erdem")
+
+kisi5 = dbik.Person("yffkykmhpzpf", "oajxsuqpup", "Ekine", "Sahin")
+
+kisi6 = dbik.Person("jiqrgnlmgcvs", "gfchrymhwz", "Ekrem", "Sahin")
+
+kisi7 = dbik.Person("oghavwagkndi", "yjcutewzmt", "Sedat", "Tekin")
+
+kisi8 = dbik.Person("sfaehpoumycl", "zuockmpohi", "Burak", "Sahin")
+
+kisi9 = dbik.Person("tmzwkrqmuvgu", "clymloebgp", "Burak", "Tekin")
+
+kisi10 = dbik.Person("bbbriqqfixyb", "lqjirtwicx", "Ekine", "Erdem")
+
+kisi11 = dbik.Person("ytquswgjmczu", "yyojjnvpil", "Murat", "Tekin")
+
+kisi12 = dbik.Person("ochhtrbukntc", "sbekqmijuv", "Sedat", "Alkac")
+
+kisi13 = dbik.Person("imlvaswohmpf", "dgfkbswzab", "Murat", "Ersen")
+
+kisi14 = dbik.Person("hlrgwoiebfkk", "udfsoqhejn", "Ekine", "Tekin")
+
+kisi15 = dbik.Person("txdfbqqrvsht", "pkuouzygog", "Burak", "Erdem")
+
+kisi16 = dbik.Person("wvhwmifrkbwc", "keacjgdnpt", "Sedat", "Guclu")
+
+kisi17 = dbik.Person("bglefqoyoekf", "jkzjleurvt", "Ekrem", "Alkac")
+
+kisi18 = dbik.Person("fgmkoqgtonar", "yuzmmhqcji", "Kemal", "Erdem")
+
+kisi19 = dbik.Person("fpgxumtritxf", "yplgvkgjls", "Sedat", "Guclu")
+
+kisi20 = dbik.Person("vjpmnwysjdzo", "gtutpgeagf", "Murat", "Alkac")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("zdjhplukfuvy", "mbhybecwtk", "Burak", "Sahin")
+
+kisi1 = dbik.Person("kuwspxtbpsrb", "oabravvach", "Burak", "Alkac")
+
+kisi2 = dbik.Person("poioljszkizd", "zhlehiwcmk", "Burak", "Ersen")
+
+kisi3 = dbik.Person("rmetmyiugfta", "cssslskzko", "Burak", "Tekin")
+
+kisi4 = dbik.Person("bhuihgcxybgy", "jgzugnpgqe", "Murat", "Guclu")
+
+kisi5 = dbik.Person("qulhiehydoab", "tlnublqxxk", "Murat", "Guclu")
+
+kisi6 = dbik.Person("kjotzywptuep", "uddessorwg", "Murat", "Erdem")
+
+kisi7 = dbik.Person("aveiyyyooelw", "qppursmmqq", "Sedat", "Ersen")
+
+kisi8 = dbik.Person("nyksdlczxxvn", "dtubbbteme", "Sedat", "Sahin")
+
+kisi9 = dbik.Person("vpgnffjbikqp", "qmvosaajck", "Burak", "Erdem")
+
+kisi10 = dbik.Person("ecuoqdbneyke", "zaapxwhzwx", "Ekine", "Alkac")
+
+kisi11 = dbik.Person("njdidrockeqw", "zhovtnocbv", "Kemal", "Sahin")
+
+kisi12 = dbik.Person("twfwfcerobry", "pwlpwptclt", "Sedat", "Erdem")
+
+kisi13 = dbik.Person("mclyiwytanif", "hvdbysykty", "Sedat", "Tekin")
+
+kisi14 = dbik.Person("gnezyjaknnpb", "pprvjiiuwy", "Sedat", "Alkac")
+
+kisi15 = dbik.Person("nrxfgheiebfr", "kitpyrgwdw", "Ekine", "Sahin")
+
+kisi16 = dbik.Person("opuitwwhphfd", "xmxstfvhqb", "Murat", "Alkac")
+
+kisi17 = dbik.Person("azqglubwyxzo", "kjdxaoqywy", "Sedat", "Erdem")
+
+kisi18 = dbik.Person("asvxkmcdedfd", "zcleovtxlz", "Ekrem", "Alkac")
+
+kisi19 = dbik.Person("ddgdhpykvxfm", "kvazxrozds", "Ekrem", "Sahin")
+
+kisi20 = dbik.Person("jgcrbfcxqkbe", "uvamztkksj", "Murat", "Ersen")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("sotcomauqrzl", "obkbpwqlzo", "Ekine", "Alkac")
+
+kisi1 = dbik.Person("jycvdxbxuelx", "szsljzaztu", "Murat", "Guclu")
+
+kisi2 = dbik.Person("foantpmumrvn", "pdkunnwfgl", "Ekrem", "Erdem")
+
+kisi3 = dbik.Person("jcpopxkvmczd", "txebdmynpb", "Murat", "Alkac")
+
+kisi4 = dbik.Person("xwotnnbvyhhv", "evptwoiavk", "Burak", "Guclu")
+
+kisi5 = dbik.Person("vwstdbhnhraj", "qbwuuvkwgm", "Ekine", "Alkac")
+
+kisi6 = dbik.Person("dqukqzdsdeue", "fhrygnqocl", "Ekine", "Tekin")
+
+kisi7 = dbik.Person("yxzuqvxqkhom", "gejfjbrsyk", "Kemal", "Sahin")
+
+kisi8 = dbik.Person("podlvebztczh", "scgiyrrutl", "Sedat", "Ersen")
+
+kisi9 = dbik.Person("mxolltasxsel", "ysoxurivvp", "Ekrem", "Erdem")
+
+kisi10 = dbik.Person("yuucbrznsueg", "hjpqvtkbza", "Ekine", "Ersen")
+
+kisi11 = dbik.Person("htqmpalgcqcs", "oboyrpfkil", "Ekine", "Ersen")
+
+kisi12 = dbik.Person("fgareihmotom", "lpsbzkzbgt", "Ekine", "Tekin")
+
+kisi13 = dbik.Person("ydeycqtfxlun", "ysxssqlbeh", "Ekine", "Guclu")
+
+kisi14 = dbik.Person("kbexltlvncny", "rdzqwfgrjq", "Burak", "Tekin")
+
+kisi15 = dbik.Person("kctdsodaittg", "vnghsebyuf", "Kemal", "Guclu")
+
+kisi16 = dbik.Person("cjkkntotegde", "zcehowvskg", "Burak", "Tekin")
+
+kisi17 = dbik.Person("eaxulpmrtini", "qtxljvxcmk", "Sedat", "Ersen")
+
+kisi18 = dbik.Person("ttrodjjuqvyv", "xwisiyizti", "Murat", "Alkac")
+
+kisi19 = dbik.Person("gqdoivqciruh", "bixaqoawhg", "Sedat", "Guclu")
+
+kisi20 = dbik.Person("kwmhzeonolnt", "xenvyagvlo", "Burak", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("klcwfeqqzzfm", "inbgzdypvx", "Sedat", "Erdem")
+
+kisi1 = dbik.Person("cilinilvumha", "oglviknrts", "Ekrem", "Tekin")
+
+kisi2 = dbik.Person("nhxqufluhpnp", "iotvuxgciu", "Burak", "Guclu")
+
+kisi3 = dbik.Person("ayytalxaxnxy", "yqrvuevrxt", "Sedat", "Erdem")
+
+kisi4 = dbik.Person("gewgqydnkbco", "tofwqukgzi", "Kemal", "Erdem")
+
+kisi5 = dbik.Person("thwyankninck", "tjrigqingq", "Murat", "Alkac")
+
+kisi6 = dbik.Person("okiirtmizuvf", "vnckthmjkq", "Sedat", "Ersen")
+
+kisi7 = dbik.Person("iciyltvuotjk", "krlnpvnrqc", "Murat", "Sahin")
+
+kisi8 = dbik.Person("dfefgxahykjw", "mzoqfmbval", "Sedat", "Sahin")
+
+kisi9 = dbik.Person("iuiotwzrmlty", "ojtxxpqbrs", "Kemal", "Tekin")
+
+kisi10 = dbik.Person("vxbzijfrubfv", "ecrsqkjlxq", "Ekine", "Ersen")
+
+kisi11 = dbik.Person("oznwwltrjhmq", "gxtzohvxea", "Ekine", "Guclu")
+
+kisi12 = dbik.Person("mrdfijheprgc", "emobyufbpe", "Kemal", "Tekin")
+
+kisi13 = dbik.Person("zzixnzrugcgy", "abuuojuedj", "Sedat", "Guclu")
+
+kisi14 = dbik.Person("ouuuzntuodkq", "mtnjulhyfe", "Murat", "Erdem")
+
+kisi15 = dbik.Person("lbqmxkuytzkp", "rghtsnledr", "Sedat", "Ersen")
+
+kisi16 = dbik.Person("hckmrvfexybn", "orwrlyljyr", "Murat", "Sahin")
+
+kisi17 = dbik.Person("ybumhprfebus", "ryliejmxou", "Kemal", "Erdem")
+
+kisi18 = dbik.Person("yadoehztvrwn", "lgysseuaom", "Ekrem", "Ersen")
+
+kisi19 = dbik.Person("dqgmoxsdoubn", "xlktpleylj", "Murat", "Sahin")
+
+kisi20 = dbik.Person("zhldslddexav", "iukjmzreqw", "Ekine", "Alkac")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("bnwqtfzeavch", "kjvdoqufra", "Ekrem", "Guclu")
+
+kisi1 = dbik.Person("pfmyiqlnjdgl", "fwzlcadgct", "Ekine", "Guclu")
+
+kisi2 = dbik.Person("llzlllngveme", "ofqziblrbm", "Sedat", "Sahin")
+
+kisi3 = dbik.Person("dpnfskorlcqo", "vpvxyjszrk", "Ekrem", "Guclu")
+
+kisi4 = dbik.Person("reaujnazcvjc", "wgivwvucof", "Murat", "Alkac")
+
+kisi5 = dbik.Person("ztlvyubfoajl", "aiwlzorsqi", "Sedat", "Ersen")
+
+kisi6 = dbik.Person("icjkfsafkkvg", "qfgpeenqau", "Burak", "Tekin")
+
+kisi7 = dbik.Person("mvewfajrargu", "mdrezlgmka", "Burak", "Erdem")
+
+kisi8 = dbik.Person("wdixirxxngrp", "jahqyeklaj", "Sedat", "Tekin")
+
+kisi9 = dbik.Person("pjklnqptpfhp", "wijramzyuj", "Ekrem", "Sahin")
+
+kisi10 = dbik.Person("yomqlsfsketb", "ddducxzpcs", "Murat", "Erdem")
+
+kisi11 = dbik.Person("vhvugchmmgvc", "lylprpjssa", "Ekine", "Sahin")
+
+kisi12 = dbik.Person("ztxxiktytxia", "lwxkagqqwh", "Ekine", "Ersen")
+
+kisi13 = dbik.Person("nldhxnvjrvtp", "doreffpran", "Ekrem", "Sahin")
+
+kisi14 = dbik.Person("rgdxvnvpluru", "saswrsfccl", "Ekine", "Erdem")
+
+kisi15 = dbik.Person("ilovibxpbyhk", "bzjtikdqzd", "Kemal", "Tekin")
+
+kisi16 = dbik.Person("yqdqdgbnttdg", "bsrxduqfzm", "Ekine", "Sahin")
+
+kisi17 = dbik.Person("chxvvpuwwlby", "ojcbgstwch", "Sedat", "Guclu")
+
+kisi18 = dbik.Person("axykktewfhej", "waojpzqfkp", "Ekrem", "Guclu")
+
+kisi19 = dbik.Person("soiargfshddl", "reguagapvk", "Burak", "Erdem")
+
+kisi20 = dbik.Person("garqqvvcfpap", "wnrhzginfn", "Kemal", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("jkadxuqxkgqm", "sqbttvbmhp", "Sedat", "Tekin")
+
+kisi1 = dbik.Person("xqidhgfoezca", "iyxviphzcd", "Burak", "Sahin")
+
+kisi2 = dbik.Person("jfticyjysopy", "gggqhhuoct", "Ekine", "Guclu")
+
+kisi3 = dbik.Person("mwyolssfaldp", "ovlssuncox", "Ekine", "Ersen")
+
+kisi4 = dbik.Person("zxdjcrtydhrj", "pzhvnhzyty", "Ekine", "Guclu")
+
+kisi5 = dbik.Person("suwjxkrsxcgn", "arzxwhtcie", "Ekine", "Sahin")
+
+kisi6 = dbik.Person("zausvwvqtkic", "ipubowaljt", "Ekrem", "Erdem")
+
+kisi7 = dbik.Person("leyaybwyxara", "idhvsonosv", "Kemal", "Alkac")
+
+kisi8 = dbik.Person("xfplbbjepzck", "vwzhgrxfya", "Ekine", "Tekin")
+
+kisi9 = dbik.Person("gxmpkolpqzyg", "ythmnoxsca", "Ekrem", "Guclu")
+
+kisi10 = dbik.Person("xsbcdonbkgkr", "yjqsyeevtv", "Kemal", "Ersen")
+
+kisi11 = dbik.Person("gohlmdgqzikw", "dzyrcoppzq", "Burak", "Ersen")
+
+kisi12 = dbik.Person("tvjywsfpgnbe", "jcgfcwbvfo", "Ekine", "Alkac")
+
+kisi13 = dbik.Person("rcxbtoaabadr", "ihccyiayrj", "Burak", "Sahin")
+
+kisi14 = dbik.Person("wbzamncnlmbv", "fednygacri", "Ekine", "Ersen")
+
+kisi15 = dbik.Person("oihmtzgppojf", "qzmmujuvgc", "Murat", "Tekin")
+
+kisi16 = dbik.Person("vtjgvtidjrne", "ulfyielcsz", "Ekrem", "Sahin")
+
+kisi17 = dbik.Person("vdrqcxijbbbn", "kyadlwlgat", "Ekine", "Sahin")
+
+kisi18 = dbik.Person("vklgfsuaywmm", "vhijvaukhq", "Murat", "Ersen")
+
+kisi19 = dbik.Person("eblgeioemzoq", "hcudksgfkk", "Kemal", "Erdem")
+
+kisi20 = dbik.Person("qisaajmqmhvh", "xnojqqfibm", "Kemal", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("fcmsrqwujaql", "kmbbnecpno", "Ekine", "Guclu")
+
+kisi1 = dbik.Person("wpzhuwqxstjw", "ltpbefcdtf", "Burak", "Ersen")
+
+kisi2 = dbik.Person("mpvstvxxmaeh", "ikztqpijwd", "Burak", "Guclu")
+
+kisi3 = dbik.Person("pzhwjvtljziw", "zhtfuthsuh", "Kemal", "Erdem")
+
+kisi4 = dbik.Person("nmuavykxdpkn", "kimdalvmgu", "Ekrem", "Alkac")
+
+kisi5 = dbik.Person("hrzlsfifelnc", "ybodqhxkei", "Ekrem", "Ersen")
+
+kisi6 = dbik.Person("fthbdzywsqdt", "wbapmhxhdi", "Kemal", "Guclu")
+
+kisi7 = dbik.Person("vjaalelipxwj", "ihhpacncup", "Kemal", "Sahin")
+
+kisi8 = dbik.Person("jrqqahgtrgdh", "upwafpldjh", "Ekrem", "Tekin")
+
+kisi9 = dbik.Person("uvniofrzdnpo", "nvzvwlemcd", "Ekrem", "Alkac")
+
+kisi10 = dbik.Person("wxvjhznbnwlt", "yufhiasvfg", "Burak", "Sahin")
+
+kisi11 = dbik.Person("ppbsqkgsedux", "goywnadpuq", "Ekrem", "Sahin")
+
+kisi12 = dbik.Person("nyvbzvlacwyb", "uigosjvoct", "Murat", "Erdem")
+
+kisi13 = dbik.Person("nyxcadnuxjuj", "enpvqywvvf", "Sedat", "Guclu")
+
+kisi14 = dbik.Person("obvrwgkwicbq", "gcnweywoan", "Sedat", "Alkac")
+
+kisi15 = dbik.Person("qgiciweoktcv", "nzxgrnkhwj", "Ekine", "Erdem")
+
+kisi16 = dbik.Person("fyqiceeelscv", "wfayztpfmv", "Ekine", "Ersen")
+
+kisi17 = dbik.Person("mnelubttumzj", "jfyaytkipn", "Murat", "Sahin")
+
+kisi18 = dbik.Person("ihmgrrzicnwb", "npmbceobia", "Murat", "Erdem")
+
+kisi19 = dbik.Person("ncebtjrldcwi", "rwysibxjvw", "Sedat", "Erdem")
+
+kisi20 = dbik.Person("holujwwuksap", "crfizsiexb", "Ekrem", "Erdem")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("qxzbqykgpoil", "yjskratpdc", "Ekine", "Sahin")
+
+kisi1 = dbik.Person("vegcmboayryc", "aylsewqdje", "Kemal", "Guclu")
+
+kisi2 = dbik.Person("nyhukqcupqdu", "drtdxnjidd", "Murat", "Sahin")
+
+kisi3 = dbik.Person("muljyfrjztya", "wjxwhhouvn", "Sedat", "Erdem")
+
+kisi4 = dbik.Person("sopmknpkqxyk", "fskraourpk", "Sedat", "Sahin")
+
+kisi5 = dbik.Person("hevquanhfyzw", "ijojzqgtgd", "Ekine", "Alkac")
+
+kisi6 = dbik.Person("tfzlbwnrqjlr", "bztwvyjznn", "Ekine", "Tekin")
+
+kisi7 = dbik.Person("xedqupotgnay", "zruiyqlaed", "Burak", "Erdem")
+
+kisi8 = dbik.Person("lxopgrqijska", "ezvkflagyv", "Ekrem", "Alkac")
+
+kisi9 = dbik.Person("ekxoejjugbeh", "tinzblldoh", "Ekine", "Alkac")
+
+kisi10 = dbik.Person("aqnbqjibxvit", "hzsivesfni", "Sedat", "Sahin")
+
+kisi11 = dbik.Person("yncmmjfsaaqv", "knlzozohia", "Sedat", "Erdem")
+
+kisi12 = dbik.Person("kgqljoucrgdm", "wvcrzlslpw", "Sedat", "Sahin")
+
+kisi13 = dbik.Person("kfnmktuwqisf", "smbjsrjhlx", "Burak", "Ersen")
+
+kisi14 = dbik.Person("ahnoludpfdjt", "avmpavxobw", "Ekine", "Sahin")
+
+kisi15 = dbik.Person("tnqqwrnfgauk", "bayntbdcbg", "Sedat", "Alkac")
+
+kisi16 = dbik.Person("zqglitwvajhj", "kqnzidhvfw", "Ekine", "Erdem")
+
+kisi17 = dbik.Person("wcnazebyqacq", "cnnfhmvczp", "Burak", "Alkac")
+
+kisi18 = dbik.Person("ldfibtstilmc", "nuuxnazhgq", "Burak", "Tekin")
+
+kisi19 = dbik.Person("atgwpidarzvw", "jzcgliiymv", "Burak", "Ersen")
+
+kisi20 = dbik.Person("gtmwqwhrcjgd", "rhygzgpxwv", "Ekine", "Sahin")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("nbljtlublzib", "kblilsuine", "Ekine", "Alkac")
+
+kisi1 = dbik.Person("xdwdixbtrwlv", "niyuamknpv", "Murat", "Erdem")
+
+kisi2 = dbik.Person("iqulvvulvklv", "xzjwxmoiuo", "Murat", "Ersen")
+
+kisi3 = dbik.Person("rfdalwyuihgf", "rdjifvpyys", "Burak", "Guclu")
+
+kisi4 = dbik.Person("eponieficlas", "zljudpnsbh", "Kemal", "Erdem")
+
+kisi5 = dbik.Person("vlhfeuvpkhsx", "edbegdpuds", "Kemal", "Ersen")
+
+kisi6 = dbik.Person("gmgxvzxeucay", "alaqirybaj", "Ekine", "Sahin")
+
+kisi7 = dbik.Person("epfistpwzozb", "qdgoravwex", "Kemal", "Alkac")
+
+kisi8 = dbik.Person("ehvqpwohnfuk", "vsmnpzkycc", "Burak", "Ersen")
+
+kisi9 = dbik.Person("czjztqgtateo", "mgcjxktgwt", "Sedat", "Tekin")
+
+kisi10 = dbik.Person("ohehrwpwtacr", "deojtvvexi", "Kemal", "Erdem")
+
+kisi11 = dbik.Person("kxajsolvkouw", "rqvvztujxb", "Kemal", "Erdem")
+
+kisi12 = dbik.Person("jdhmzosaobko", "yqzbmccbll", "Ekrem", "Ersen")
+
+kisi13 = dbik.Person("lgnqksvdlmkk", "rtgrydhskp", "Burak", "Erdem")
+
+kisi14 = dbik.Person("pgzlomyngzht", "bzzfbhgdkz", "Burak", "Tekin")
+
+kisi15 = dbik.Person("vamkguwegyty", "ebambhkpxe", "Sedat", "Guclu")
+
+kisi16 = dbik.Person("syyxgdxlgcjq", "kpgueeimer", "Murat", "Alkac")
+
+kisi17 = dbik.Person("jdylhdgkpcdd", "krpqgylbll", "Sedat", "Erdem")
+
+kisi18 = dbik.Person("nrahauizemno", "cuhzqyhrow", "Burak", "Alkac")
+
+kisi19 = dbik.Person("vilpbefbzbil", "craukwaejh", "Ekrem", "Tekin")
+
+kisi20 = dbik.Person("tgomtjpytpjc", "axjkmuguwz", "Ekine", "Sahin")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("nihldjsattci", "gdyhjrbqab", "Burak", "Erdem")
+
+kisi1 = dbik.Person("hsjtptolqmqd", "dbbougitiy", "Sedat", "Erdem")
+
+kisi2 = dbik.Person("tvzokhmkxowt", "qwbtmvbcqq", "Ekrem", "Alkac")
+
+kisi3 = dbik.Person("fkfdqhbllwbj", "cxeexptkvf", "Ekrem", "Erdem")
+
+kisi4 = dbik.Person("czjidsubcmah", "kyuqmvleuz", "Ekrem", "Ersen")
+
+kisi5 = dbik.Person("zpfsfbrqvrel", "syzvjzsyzl", "Kemal", "Erdem")
+
+kisi6 = dbik.Person("hrccpiknkkjw", "uikbzswykg", "Burak", "Alkac")
+
+kisi7 = dbik.Person("ckazrjpvrmpx", "ovadoryepi", "Sedat", "Guclu")
+
+kisi8 = dbik.Person("eddkgphcywzq", "lbokxswbfa", "Sedat", "Guclu")
+
+kisi9 = dbik.Person("umegwmtocltj", "ycnzpynnnr", "Sedat", "Erdem")
+
+kisi10 = dbik.Person("nicvxhucxhnn", "uhdriusjox", "Sedat", "Tekin")
+
+kisi11 = dbik.Person("tqggfogiydug", "rixdxpbwfx", "Ekrem", "Alkac")
+
+kisi12 = dbik.Person("aywpavpqldsa", "vmlmwublev", "Ekrem", "Tekin")
+
+kisi13 = dbik.Person("knasrolymgnt", "avvadiwecf", "Ekrem", "Tekin")
+
+kisi14 = dbik.Person("cuipmtcednbv", "bydwdkndkk", "Sedat", "Tekin")
+
+kisi15 = dbik.Person("uakapmyvwkcg", "uztsrnhhsm", "Sedat", "Ersen")
+
+kisi16 = dbik.Person("rxpwqorlpist", "mkuarpkphi", "Murat", "Guclu")
+
+kisi17 = dbik.Person("efsvmlkdpovl", "toyfurmbin", "Kemal", "Alkac")
+
+kisi18 = dbik.Person("efczifkyrmqz", "bgiwlcbnqv", "Kemal", "Sahin")
+
+kisi19 = dbik.Person("sgspcqlfhunx", "zxtskcpszz", "Ekrem", "Sahin")
+
+kisi20 = dbik.Person("pajqvidfgorr", "nzwfkhgbfn", "Kemal", "Sahin")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("jmyflfcckpii", "gyiehbiqjq", "Kemal", "Ersen")
+
+kisi1 = dbik.Person("civudmwutwah", "cladhrepzb", "Kemal", "Guclu")
+
+kisi2 = dbik.Person("lkhmgovjlljo", "kvkkgchzdt", "Burak", "Guclu")
+
+kisi3 = dbik.Person("pjvafqcogvhw", "hywzkxmspm", "Ekrem", "Sahin")
+
+kisi4 = dbik.Person("qelzoputbavm", "spvfuatkvs", "Burak", "Erdem")
+
+kisi5 = dbik.Person("jydbwdzkdsyu", "ihcnbnjfhj", "Ekrem", "Erdem")
+
+kisi6 = dbik.Person("uuuomyirqdte", "gunpnioxku", "Ekine", "Sahin")
+
+kisi7 = dbik.Person("bhpzfsskfwst", "ebvwszttio", "Burak", "Tekin")
+
+kisi8 = dbik.Person("jedzaraxrqhx", "xvqyrctqbu", "Murat", "Alkac")
+
+kisi9 = dbik.Person("ikkkwwlwbvoe", "arhsxjhggb", "Burak", "Ersen")
+
+kisi10 = dbik.Person("hkfgookrzbmc", "yygdijgkio", "Ekine", "Alkac")
+
+kisi11 = dbik.Person("inmypnyvchdt", "chgxyykoxv", "Ekrem", "Tekin")
+
+kisi12 = dbik.Person("kpinzbnxyebl", "syukwtkvmu", "Kemal", "Alkac")
+
+kisi13 = dbik.Person("umudqzmnomlp", "gevzcoxhtn", "Sedat", "Alkac")
+
+kisi14 = dbik.Person("ayflsudutwcx", "oorubtmghm", "Ekrem", "Ersen")
+
+kisi15 = dbik.Person("moeqycvywfkr", "ivescufusr", "Sedat", "Tekin")
+
+kisi16 = dbik.Person("melbjszeptju", "ulslphlssa", "Murat", "Tekin")
+
+kisi17 = dbik.Person("cvdwjbnrtjlh", "yxyfcucvyo", "Ekine", "Tekin")
+
+kisi18 = dbik.Person("ehxhavpqsyip", "xpdhtqyury", "Murat", "Alkac")
+
+kisi19 = dbik.Person("nabjrxsfhxvk", "qcrpdeoimm", "Ekine", "Sahin")
+
+kisi20 = dbik.Person("fiaqufixjffz", "pswtvfmkex", "Ekine", "Tekin")
+
+
+
+
+ # --------------------------
+
+
+
+
+kisi0 = dbik.Person("glrszqyjvybr", "zllaijjlgh", "Kemal", "Ersen")
+
+kisi1 = dbik.Person("oszxtvptmupc", "wemslgsovf", "Ekrem", "Tekin")
+
+kisi2 = dbik.Person("lxepahbpjnnp", "flnbdcwhpg", "Sedat", "Ersen")
+
+kisi3 = dbik.Person("dihftwexmybj", "gxmaviqhjs", "Sedat", "Tekin")
+
+kisi4 = dbik.Person("zmeculonejpc", "mgasqemofk", "Ekine", "Erdem")
+
+kisi5 = dbik.Person("jubxyfhlvdrv", "dihwbbjjxi", "Murat", "Sahin")
+
+kisi6 = dbik.Person("oaebgjzhfyjs", "kxupwhhhtl", "Ekrem", "Tekin")
+
+kisi7 = dbik.Person("vghxcssgfygo", "zenpzoxfos", "Murat", "Sahin")
+
+kisi8 = dbik.Person("paximvaruybq", "twnivaanzp", "Murat", "Alkac")
+
+kisi9 = dbik.Person("fbsogesmfqfn", "hfonovbojp", "Murat", "Sahin")
+
+kisi10 = dbik.Person("djdihxrcsvbk", "xqmorlrdqa", "Sedat", "Sahin")
+
+kisi11 = dbik.Person("eveptkyhboca", "eicfeemzck", "Murat", "Sahin")
+
+kisi12 = dbik.Person("aqfokzryvifj", "pjjuyjhtwn", "Sedat", "Erdem")
+
+kisi13 = dbik.Person("dxncwcnjyryx", "moipkkqeys", "Sedat", "Sahin")
+
+kisi14 = dbik.Person("urgstkcjnmdx", "ccjxenymps", "Sedat", "Sahin")
+
+kisi15 = dbik.Person("ypnbaymqidyx", "hkteaoldtw", "Ekine", "Guclu")
+
+kisi16 = dbik.Person("faiivzfqhumv", "yosgzwknqx", "Burak", "Guclu")
+
+kisi17 = dbik.Person("cyamfskrdglf", "ofqkfwewuz", "Ekrem", "Ersen")
+
+kisi18 = dbik.Person("wgfyzyntodcj", "ufxbarmltf", "Kemal", "Sahin")
+
+kisi19 = dbik.Person("egzihocxrjxo", "tfibbmmxxh", "Murat", "Ersen")
+
+kisi20 = dbik.Person("ydpnzshgyjkr", "zfqqvnedlv", "Ekrem", "Erdem")
