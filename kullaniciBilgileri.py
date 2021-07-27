@@ -6,6 +6,6 @@ class Person:
         self.name = name
         self.surname = surname
 
-kisi22 = Person("berkedenemee@gmail.com", "Berke0595", "Berke", "Avcı")
+kisi22 = Person("", "", "", "")
 
 yorumliste = ["Çok güzel video", "tebrikler", "İzlemeden beğendim"]
